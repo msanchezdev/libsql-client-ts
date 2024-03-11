@@ -3,5 +3,8 @@
     "packages/libsql-core",
     "packages/libsql-client",
     "packages/libsql-client-wasm"
-  ]
+  ],
+  "dependencies": {
+    "libsql": "msanchezdev/libsql-js"
+  }
 }
